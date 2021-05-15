@@ -23,7 +23,8 @@ kids, hair, fitness, women, children, men, accessories and more.
 ## Installation 
 1.In the project directory, run the command
 git clone
-https://github.com/showkmahmoud/BalsamPharmacy.git
+
+https://github.com/showkmahmoud/Balasam_Pharmacy.git
 
 2.open The project in vs code
 
